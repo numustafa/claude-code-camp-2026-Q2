@@ -1,0 +1,4 @@
+interface:
+  display_name: "MUD Player"
+  short_description: "Play MUDs with persistent memory"
+  default_prompt: "Use $mud-player to pursue my MUD goal and update its persistent player and world memory."
